@@ -1,2 +1,2 @@
 [workspace]
-members = ["proc-macros", "simple-db"]
+members = ["simple-db-macros", "simple-db"]
